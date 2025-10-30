@@ -1,6 +1,6 @@
 # My Favorite Series: Stranger Things
 
-![Stranger Things Logo](https://upload.wikimedia.org/wikipedia/en/f/f7/Stranger_Things_logo.png)
+![images (2)](https://github.com/user-attachments/assets/d99728a8-07e1-4270-9cd7-b2f4043dd994)
 
 ## Overview
 *Stranger Things* is a sci-fi horror series set in the 1980s.  
